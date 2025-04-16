@@ -33,6 +33,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
 </div>
 
