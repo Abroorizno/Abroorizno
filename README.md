@@ -15,7 +15,7 @@
 <h2 align="center">📊 My GitHub Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abroorizno&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Abroorizno/Abroorizno/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
