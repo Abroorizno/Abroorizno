@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abroor Rizky 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+am+a+Passionate+Developer;I+Love+Learning+New+Things;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <br>
