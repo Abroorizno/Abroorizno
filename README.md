@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on Website Development
 - 📫 How to reach me on Instagram : @abroorizno_ & LinkedIn : Abroor Rizky.
 
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abroorizno&show_icons=true&theme=radical&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abroorizno&layout=compact&theme=radical" width="39%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abroorizno&layout=compact&theme=radical" width="37%" alt="Top Languages"/>
 </div>
 
 <!---
