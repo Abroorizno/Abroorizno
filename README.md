@@ -10,6 +10,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abroorizno&layout=compact&theme=radical" width="37%" alt="Top Languages"/>
 </div>
 
+<br>
+<br>
+<h2 align="center">📊 My GitHub Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abroorizno&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Abroorizno/Abroorizno/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 <!---
 Abroorizno/Abroorizno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
