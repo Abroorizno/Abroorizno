@@ -20,9 +20,13 @@
 
 ---
 
-<p align="center">
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/Abroorizno/Abroorizno/output/github-contribution-grid-snake.svg" />
-</p>
+</picture>
+</div>
 
 <!---
 Abroorizno/Abroorizno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
