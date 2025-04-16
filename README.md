@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Abroorizno
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Laravel and React JS
-- 💞️ I’m looking to collaborate on Website Development
-- 📫 How to reach me on Instagram : @abroorizno_ & LinkedIn : Abroor Rizky.
+<h2 align="center">My Activity's</h2>
 
 <br>
 <div align="center">
