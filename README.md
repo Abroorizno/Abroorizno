@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<br>
+
 <br>
 <p align="center">
   <a href="https://github.com/Abroorizno"><img src="https://komarev.com/ghpvc/?username=Abroorizno&style=flat-square&color=brightgreen" alt="Profile views" /></a>
