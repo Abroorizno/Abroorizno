@@ -6,7 +6,6 @@
 
 
 ![Statistik GitHub Abroorizno](https://github-readme-stats.vercel.app/api?username=Abroorizno&show_icons=true&theme=radical)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abroorizno&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abroorizno&layout=compact&theme=tokyonight)
 <!---
 Abroorizno/Abroorizno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
