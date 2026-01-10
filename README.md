@@ -109,7 +109,7 @@ I have experience working with frontend frameworks, backend services, and relati
 <h2 align="center">📊 My GitHub Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abroorizno&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrooriznoo&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -118,6 +118,6 @@ I have experience working with frontend frameworks, backend services, and relati
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Abroorizno/Abroorizno/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Abroorizno/abrooriznoo/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
